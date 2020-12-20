@@ -33,3 +33,4 @@ tags
 
 .pytest_cache/
 .vscode/
+.idea/
